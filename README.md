@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaaomanooel/) 
 
-[![Pete's github stats](https://github-readme-stats.vercel.app/api?username=joaaomanooel&show_icons=true&hide_border=true&count_private=true&theme=graywhite&show_icons=true)](https://github.com/joaaomanooel)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaaomanooel&langs_count=8&hide_border=true&count_private=true&layout=compact&theme=graywhite)](https://github.com/joaaomanooel)
-
+[![Pete's github stats](https://github-readme-stats.vercel.app/api?username=joaaomanooel&show_icons=true&hide_border=true&count_private=true&theme=radical)](https://github.com/joaaomanooel)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaaomanooel&langs_count=8&hide_border=true&count_private=true&layout=compact&theme=radical)](https://github.com/joaaomanooel)

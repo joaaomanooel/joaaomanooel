@@ -5,19 +5,6 @@
 
 <br/>
 
-### 🚀 About me
-🌱 I'm João Manoel a fullstack Javascript developer from Brazil. <br/>
-👨‍💻 I am passionate about making code and build good products. <br/>
-📚 I love to learn and teach. <br/>
-👷‍♂️ I'm currently working at [Trinca](https://trin.ca).
-
-<br/>
-
-### 🏆 Github Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=joaaomanooel&theme=radical&margin-w=5&margin-h=5&column=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br/>
-
 ### 🐙 Github Profile Stats
 [![Pete's github stats](https://github-readme-stats.vercel.app/api?username=joaaomanooel&show_icons=true&hide_border=true&count_private=true&theme=radical)](https://github.com/joaaomanooel) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaaomanooel&langs_count=8&hide_border=true&count_private=true&layout=compact&theme=radical)](https://github.com/joaaomanooel)

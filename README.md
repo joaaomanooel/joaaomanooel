@@ -1,6 +1,5 @@
 ## Hello there 👋 <br/> Welcome to my GitHub!
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=joaaomanooel)
 [![Linkedin: joaaomanooel](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/joaaomanooel/)](https://www.linkedin.com/in/joaaomanooel/) [![Email: joaaomanooel@gmail.com](https://img.shields.io/badge/-Email-critical?style=flat-square&logo=gmail&logoColor=white&link=mailto:mailtomeaakash@gmail.com)](mailto:mailtomeaakash@gmail.com) 
 
 <br/>
